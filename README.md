@@ -1,6 +1,10 @@
-# psychomind
+# Practicas Psychomind
 
 A new Flutter project.
+
+<p align ="center">
+  <img src="assets/example.png">
+</p>
 
 ## Getting Started
 
