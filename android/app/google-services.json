@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1053207965724",
+    "firebase_url": "https://practicas-spicominds-default-rtdb.firebaseio.com",
+    "project_id": "practicas-spicominds",
+    "storage_bucket": "practicas-spicominds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053207965724:android:1540296bae9a6c086cafd9",
+        "android_client_info": {
+          "package_name": "com.example.psychomind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-peSq7nNfnZTSp8cb0pv6eDui9SfzbFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
